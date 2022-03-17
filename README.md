@@ -1,6 +1,6 @@
 ### Hi, I'm Adrian! 👋 📶
 
-I develop (mostly) Mac tools for scanning, monitoring, and troubleshooting Wi-Fi networks. You can learn more about my apps on [my company's website](https://www.intuitibits.com).
+I develop (mostly) Mac tools for scanning, monitoring, and troubleshooting Wi-Fi networks. You can learn more about my apps on my [company's website](https://www.intuitibits.com).
 
 I'm also a member of the [WLAN Pi](https://github.com/WLAN-Pi) team, a multi-purpose Wi-Fi analysis tool built on top of single-board computers and open-source software. 💡 While here, check out the awesome WLAN Pi supporting projects and Wi-Fi tools by [Josh Schmelzle](https://github.com/joshschmelzle) and [Nigel Bowden](https://github.com/wifinigel).
 
